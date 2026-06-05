@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
