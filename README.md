@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
