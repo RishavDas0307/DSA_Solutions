@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
