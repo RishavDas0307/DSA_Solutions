@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
