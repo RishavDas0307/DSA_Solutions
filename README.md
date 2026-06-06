@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0035-search-insert-position) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
