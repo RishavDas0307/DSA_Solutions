@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -128,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0184-department-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
