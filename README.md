@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
