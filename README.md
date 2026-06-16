@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
