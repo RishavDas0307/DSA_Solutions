@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0070-climbing-stairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0203-remove-linked-list-elements) |
 ## String
 |  |
