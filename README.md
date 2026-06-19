@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/RishavDas0307/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
