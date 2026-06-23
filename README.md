@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/RishavDas0307/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -151,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
