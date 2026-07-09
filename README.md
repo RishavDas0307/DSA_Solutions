@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
