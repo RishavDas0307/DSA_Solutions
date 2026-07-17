@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
