@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0189-rotate-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0509-fibonacci-number) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
