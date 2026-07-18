@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
