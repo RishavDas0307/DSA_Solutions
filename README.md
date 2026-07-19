@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/RishavDas0307/DSA_Solutions/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RishavDas0307/DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
